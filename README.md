@@ -13,7 +13,7 @@ The main use for this is for people that are using a free slack team, and have r
 ```
 $ git clone https://github.com/TetraEtc/slack-deleter
 $ cd slack-deleter
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## Usage
