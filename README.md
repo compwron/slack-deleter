@@ -19,7 +19,7 @@ $ pip install -r requirements.txt
 ## Usage
 
 ```
-$ python slacker-deleter.py
+$ python slack-deleter.py # runs at http://localhost:8080/
 ```
 
 ## Author
